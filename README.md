@@ -6,4 +6,4 @@
 
 - 🚀 **Projects:** **Neo** (AGI chatbot)
 
-- **Hobbies:** Programming | Coding | Maths | Physics | Astronomy | Aerospace | Philosophy & more..
+- **Hobbies:** Programming | Coding | Maths | Physics | Astronomy | AGI
