@@ -1,9 +1,9 @@
 <h1>Sup 👋, I'm McQueen95</h1>
 
-- 🔭 **14 y/o** | Indore, India  
+- 🔭 **14 years old** | Somewhere from India  
 
-- 🛠️ **Languages:** Python 🐍 | Rust 🦀 | C++  
+- 🛠️ **Languages:** Python 🐍 | C++ 🥷  
 
-- 🚀 **Projects:** **Neo** (AGI chatbot)
+- 🚀 **Projects:** Congnitive Reasoner
 
-- **Hobbies:** Programming | Coding | Maths | Physics | Astronomy | AGI
+- **Hobbies:** Programming | Maths | Physics | Astrophysics | AGI
