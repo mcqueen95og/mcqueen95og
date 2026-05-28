@@ -4,6 +4,6 @@
 
 - 🛠️ **Languages:** Python 🐍 | C++ 🥷  
 
-- 🚀 **Projects:** Congnitive Reasoner
+- 🚀 **Projects:** See my repo's you dumbo!
 
 - **Hobbies:** Programming | Maths | Physics | Astrophysics | AGI
