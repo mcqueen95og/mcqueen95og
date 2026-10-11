@@ -1,9 +1,9 @@
-<h1>Sup 👋, I'm McQueen95</h1>
+<h1>👋 I'm McQueen95</h1>
 
-- 🔭 **14 years old** | Somewhere from India  
+- **14 y/o nerd** | India
 
-- 🛠️ **Languages:** Python 🐍 | C++ 🥷  
+- **Language:** generally python
 
-- 🚀 **Projects:** See my repo's you dumbo!
+- **Projects:** i dont have any skills tbh
 
-- **Hobbies:** Programming | Maths | Physics | Astrophysics | AGI
+- **Interests:** Programming | Maths | AGI | AI/ML
