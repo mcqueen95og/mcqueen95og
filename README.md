@@ -1,6 +1,6 @@
 <h1>👋 I'm McQueen95</h1>
 
-- **14 y/o nerd** | India
+- **based nerd** | India
 
 - **Language:** generally python
 
